@@ -4,7 +4,28 @@
 
 ### Data Description
 
-five binary data sets 
+- five binary data sets 
+
+|  Data Set     |    Features   |  train  |    test   |
+| ------------- | ------------- | ------- | --------- |
+| Breast cancer |           10  |   574   |     8     |
+|   Diabetes    |           8   |   615   |     64    |
+|   Digit       |           64  |   800   |    200    |
+|      Iris     |           4   |   120   |     30    |
+|     Wine      |          13   |   142   |     36    |
+
+
+Breast cancer Diabetes Digit
+Iris Wine
+#features # train
+800 4 120 13 142
+# test
+  136
+  153
+  200
+  30
+  36
+      
 
 ### Settings of the neural network models
 
