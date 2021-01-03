@@ -15,18 +15,6 @@
 |     Wine      |          13   |   142   |     36    |
 
 
-Breast cancer Diabetes Digit
-Iris Wine
-#features # train
-800 4 120 13 142
-# test
-  136
-  153
-  200
-  30
-  36
-      
-
 ### Settings of the neural network models
 
 This neural network has one hidden layer with Relu and output layer with Softmax.
